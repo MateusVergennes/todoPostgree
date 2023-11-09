@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=ldYcgPKEZC8
+
+npm install pg cors
+npm install express
+nodemon index
+
+npm i
+npm install react-bootstrap bootstrap
+npm start
+
+postgree
+5432
+root
